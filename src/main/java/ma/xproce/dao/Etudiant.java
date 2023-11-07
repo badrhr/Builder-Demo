@@ -1,6 +1,11 @@
 package ma.xproce.dao;
 
-import lombok.*;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Getter;
+import lombok.Sstter;
+import lombok.NoArgsConstructor;
+import lambok.ToString;
 
 @Getter
 @Setter
