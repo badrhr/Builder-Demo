@@ -3,9 +3,9 @@ package ma.xproce.dao;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Getter;
-import lombok.Sstter;
+import lombok.Setter;
 import lombok.NoArgsConstructor;
-import lambok.ToString;
+import lombok.ToString;
 
 @Getter
 @Setter
